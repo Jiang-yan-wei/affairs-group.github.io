@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+行政事务部业务网站  
+======
 
-You can use the [editor on GitHub](https://github.com/affairs-group/affairs-group/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+目录
+----
+1. [概述](#概述)  
+2. [阅读指南](#阅读指南)  
+3. [更新历史](#更新历史)
+4. [联系我们](#联系我们)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+概述  
+-----
+[本网站](https://wangbo-sjtu.github.io/Business-Changes/)为上海交通大学学生事务中心[行政事务部](xingzhengbu.group)的业务网站，主体为部门手册，其他重要内容有业务变动和部门历史等。
 
-### Markdown
+阅读指南  
+-----
+本网站内容仅为方便第一时间查阅而设计，所以并不需要逐条阅读，仅在需要时阅读即可。  
+主页为最新最及时的业务变动以便第一时间获取，其他时间性较弱的业务可根据索引查阅。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+更新历史
+-----
+| time  | events |
+|:-------:|---|
+|—2018.5.28|行政事务部业务变动通过便签、腾讯云笔记方式进行记录和展示。|
+| 2018.5.30  |本网站正式上线，成为业务更新展示平台。 | 
+| 2018.6.29 |本网站定位为以部门手册为主体的业务网站。| 
+| 2018.9—  | [行政事务部系列网站](xingzhengbu.group)内部功能部分正式投入使用，业务网站进一步优化重新上线。| 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/affairs-group/affairs-group/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+联系我们  
+-----
+电话：021-54740799 021-54743561  
+email：swzxxzb@163.com
