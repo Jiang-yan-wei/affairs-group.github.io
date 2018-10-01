@@ -21,10 +21,10 @@
 -----
 | time  | events |administrator|
 |:-------:|---|:-------:|
-| 2018.5.30  |因业务需要，便签笔记和微云无法解决也无变动问题，本网站正式上线，成为业务更新展示平台。 | [王博](https://github.com/wangbo-sjtu)|
-| 2018.6.29 |本网站定位为以部门手册为主体的业务网站。| [王博](https://github.com/wangbo-sjtu)|
-| 2018.9.9  | [行政事务部系列网站](xingzhengbu.group)内部功能部分调试完成，拟投入使用，业务网站进一步优化重新上线。| [王博](https://github.com/wangbo-sjtu)|
+| 2018.5.30  |因业务需要，便签笔记和微云无法解决也无变动问题，[本网站](https://affairs-group.github.io/)正式上线，成为业务更新展示平台。 | [王博](https://github.com/wangbo-sjtu)|
+| 2018.9.9  | [行政事务部系列网站](xingzhengbu.group)内部功能部分调试完成，拟投入使用，业务网站进一步优化，重新上线。| [王博](https://github.com/wangbo-sjtu)|
 |2018.9.11|业务小组换届开始，本网站后续负责人拟确定。|[王博](https://github.com/wangbo-sjtu)|
+|2018.10.4|网站部分换届正式举行|[张西珩](https://github.com/EvoEcho)<br/>[孙祥宇](https://github.com/sunxiangyudiyi)|
 
 联系我们  
 -----
