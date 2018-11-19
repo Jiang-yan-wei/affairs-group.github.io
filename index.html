@@ -67,7 +67,7 @@ var _hmt = _hmt || [];
                     2.正常情况下每天都会进行更新，确保时效性。<br>
                     3.欢迎大家在使用过程中提出改进的意见和批评，以便更好地接收最新的消息。<br>
                 </p>
-                <!--<p><a href="index.html" target="_blank">点击此处返回首页</a> </p>-->
+                <!--<p><a href="index.html" target="_blank">点击此处返回首页</a></p>-->
             </div>
         </section>
         <!-- notice -->
@@ -75,10 +75,12 @@ var _hmt = _hmt || [];
             <div class="container">
                 <header class="major">
                     <h3>最新公告</h3>
+
                     <ul>
-                        <li>近期教育部检查，天道好轮回，苍天绕过谁，请大家注意工位卫生，仪容仪表，按平时标准即可，但是<strong>重！点！</strong>检查其他部门的卫生、大厅卫生，沙发和柜子的书籍要摆放整齐，看到垃圾随手捡一下。</li>
-                        <li>第11周下午2-6点举行部门换届，地点暂定东中4-203，请务必按时出席。</li>
-                        <li>本周五(11.16)晚八点！二餐西餐厅破冰啦！包场等你来哦！大家都来解压哇～</li>
+                        <li>考勤机现在在胡老师边上，即将投入使用，请全体成员于本周五前完成信息录入。并请值班同学在老师不在时维护好考勤机并引导其他部门部员完成信息注册。</li>
+                        <li>请大家注意，不要在大厅饮食！！其他部门已经被吴老师抓到批评了，希望大家有则改之无则加勉。</li>
+                        <li>本周一到周三教育部检查，天道好轮回，苍天绕过谁，请大家注意工位卫生，仪容仪表，按平时标准即可，但是<strong>重！点！</strong>检查其他部门的卫生、大厅卫生，沙发和柜子的书籍要摆放整齐，看到垃圾随手捡一下。</li>
+                        <li>第12周下午2-6点举行部门换届，地点暂定上院102，请务必按时出席。</li>
 
                     </ul>
                 </header>
@@ -90,28 +92,8 @@ var _hmt = _hmt || [];
                 <header class="major">
                     <h3>临时业务</h3>
                     <p>临时任务定时更新与删除。</p>
-                    <!--<article>
-                    	<h4>请二楼各值班部员注意：</h4>
-                    	<p>
-							学生事务中心正于近日举办2018年“感恩于心，反哺于行”上海交通大学资助育人摄影、绘画大赛活动。故即日起至2018年11月11日，部分院系同学可能会将作品及报名表提交至二楼前台值班处，请值班同学留意，若有同学前来提交，麻烦经检查后接收，具体步骤如下：
-						</p>
-						<ol>
-							<li>
-								绘画类：检查报名表信息是否填写完整；<br>
-								检查纸质版绘画作品背面是否用铅笔写上作者姓名及作品名称；<br>
-								将纸质版作品及报名表接收后放在高管裘佳浩工位（14号）上；
-							</li>
-							<li>
-								摄影类：检查报名表信息是否填写完整；<br>
-								将摄影作品拷贝至二楼电脑桌面“摄影作品汇总”文件夹内，并以“作者+作品名称”命名；<br>
-								将报名表接收后放在高管裘佳浩工位（14号）上；</li>
-							<li>
-								如有疑问请及时与裘佳浩学长联系：13262907996。
-							</li>
-						</ol>
-                    </article>-->
                     <ul class="feature-icons">
-                        <li class="fa-cubes">大约11.15之前会有一个叫丁菲的人来二楼取证书和折扇（目前放在二楼桌子上）。</li>
+                        <li class="fa-cubes">这几天请大家注意工位卫生以及学服大厅卫生!!!每天第一班和第三班请查看一下大厅的高脚凳的位置，如果没有摆正麻烦摆正。</li>
                         <li class="fa-book">目前勤助部的电话已坏，无法直接转接，如果需要联系勤助请直接拨打54746013。</li>
                         <li class="fa-cubes"><a href="xingzhengbu.group" target="_blank">部门网站xingzhengbu.group</a>已经上线啦！账号是学号， 密码是111111， 签到请确认连接SSC-SJTU，请不要重复签到， 记得同时在纸质版上签到。</li>
                         <li class="fa-apple">最新场地负责人已经由曹政更替为徐媛媛，场地相关问题请找她，晚班记得发截图。</li>
@@ -511,6 +493,23 @@ var _hmt = _hmt || [];
         setTimeout(showTime,1000);//动态更新时间
     }
 </script>
+<!-- 倒计时功能尚未完成
+<script type="text/javascript">
+    function countDown(year, month, day){
+        var target=new Date();
+        target.setFullYear(year);
+        target.setMonth(month-1);
+        target.setDate(day);
+        var now=new Date();
+        var offset=target.parse()-now.parse(); //剩余天数用毫秒数表示
+        var days = 0;
+        if (offset>0) {
+            days =  parseInt(offset/1000/60/60/24)+1; //毫秒转换成天数
+        }
+        return days
+    }
+</script>
+-->
 <script type="text/javascript">
     function showPoems() {
         var time= new Date();
